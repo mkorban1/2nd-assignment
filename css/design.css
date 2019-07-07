@@ -1,0 +1,49 @@
+*{
+	margin: 0px;
+}
+
+body{
+	background: url(../img/bgforget.jpeg);
+	background-size: cover;
+}
+
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+.forget-section{
+	 width: 500px;
+    height: 250px;
+    margin: 0px auto;
+    display: block;
+
+
+}
+.forget-section img{
+	width: 150px;
+    height: 150px;
+    margin: 10% auto;
+    display: block
+}
+.forget-section h1{
+	    text-align: center
+}
+
+.form-control{
+        width: 78%;
+    padding: 16px;
+    margin: 10px auto;
+    display: block;
+    border-radius: 12px;
+    border-color: green;
+
+
+}
+.btn{margin: 12px auto;
+    display: block;
+    padding: 10px;
+    text-transform: uppercase;
+    border-radius: 12px;
+    border-color: green
+
+}
